@@ -4,6 +4,9 @@ public class Customer {
 
         car.setPrice(8900);
 
-        System.out.println("Your booking of " + car.getModel() + " " + car.getColor() + " is set to the final price of " + car.getPrice());
+//        System.out.println("Your booking of " + car.getModel() + " " + car.getColor() + " is set to the final price of " + car.getPrice());
+
+    Integer a = 123;
+        System.out.println(a);
     }
 }
